@@ -1,0 +1,22 @@
+#https://docs.ultralytics.com/quickstart/
+
+# Install CUDA Toolkit
+# https://developer.nvidia.com/cuda-toolkit
+
+# Install cuDNN
+# https://developer.nvidia.com/cudnn
+
+# Upgrade Pytorch
+# https://pytorch.org/get-started/locally/
+
+#Install 
+# pip3 install torch torchvision torchaudio --index-url https://download.pytorch.org/whl/cu124
+
+# nvidia-smi
+
+ultralytics
+ipykernel
+
+torch --index-url https://download.pytorch.org/whl/cu124
+torchvision --index-url https://download.pytorch.org/whl/cu124
+torchaudio --index-url https://download.pytorch.org/whl/cu124
